@@ -1,3 +1,5 @@
+>This library is a work in progress. This repo is just a placeholder for now.
+
 # BirdBrain 🐦🧠
 
 Declarative and realtime data management for ultra responsive Feathers and Vue.
