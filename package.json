@@ -1,0 +1,9 @@
+{
+  "name": "birdbrain",
+  "version": "1.0.0",
+  "description": "Declarative and realtime data management for ultra responsive Feathers and Vue",
+  "main": "src/index.js",
+  "keywords": ["feathersjs", "vuejs", "vue.js", "feathers", "declarative"],
+  "author": "CJ R. <cj@null.computer> (https://w3cj.now.sh)",
+  "license": "MIT"
+}
